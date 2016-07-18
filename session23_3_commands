@@ -1,0 +1,19 @@
+Problem Statement 
+List out  
+ 3 rails commands 
+ 3 rake commands 
+ 2 bundle commands 
+
+ rails commands:
+ 1. rails g controller
+ 2. rails new app_name
+ 3. rails console
+
+ rake commands
+ 1.rake db:migrate
+ 2.rake routes
+ 3.rake assets:precompile 
+
+ bundle
+ 1. bundle update
+ 2. bundle install
